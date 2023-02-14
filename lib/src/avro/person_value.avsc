@@ -1,0 +1,9 @@
+{
+    "namespace": "kafka.sr.sample",
+     "name": "Person",
+     "type": "Record",
+     "fields": [
+         {"name": "name", "type": "string"},
+         {"name": "title",  "type": "string"},
+     ]
+}
