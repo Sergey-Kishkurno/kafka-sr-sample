@@ -13,6 +13,10 @@ plugins {
     id "idea"
 }
 
+group "private"
+version "0.0.1"
+archivesBaseName = "$rootProject.name"
+
 repositories {
     mavenCentral()
 }
